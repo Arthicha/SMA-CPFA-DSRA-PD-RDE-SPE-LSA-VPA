@@ -5,7 +5,7 @@ import re
 # --- Configurable ---
 FILES = {
     "Your Response": {
-        "path": "transcript_with_markers.txt",
+        "path": "transcript_myaudio.txt",
         "color": "blue",
         "alpha": 1.0
     },
@@ -172,7 +172,7 @@ speech_keys = ['T_s', 'T', 'n', 'm', '/', '//']
 plot_metric_subplots(all_speech, 'Speech Metrics Comparison', 'Value', speech_keys)
 
 # 3️⃣ Rhythm Metrics Plot
-rhythm_keys = ['percentX', 'stddevX', 'varcoX', 'rpviX', 'npviX']
+rhythm_keys = ['percentX', 'stddevX', 'varcoX', 'rpviX', 'npviX','avgWconf','stdWconf','minWconf','maxWconf']
 plot_metric_subplots(all_rhythm, 'Rhythm Metrics Comparison', 'Value', rhythm_keys)
 
 print_metric_meanings()

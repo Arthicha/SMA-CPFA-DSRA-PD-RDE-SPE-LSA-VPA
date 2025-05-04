@@ -1,14 +1,164 @@
 Transcript with silence markers:
 Scarcity  marketing  is  the  idea  that  some  consumers  buy  things  just  because  they  want  to  be  one  of  the  only  people  to  own  it.  And  so  in  response,  companies  will  advertise  their  products  in  a  manner  that  makes  them  seem  like  they  are  rare.  The  lecturer  delves  deeper  into  scarcity  marketing  by  providing  an  example  from  his  personal  life.  He  tells  the  story  of  his  grandfather's  shoe  factory.  When  his  father  joined  the  family  business,  he  wanted  to  try  the  scarcity  marketing  techniques  he  noticed  were  being  used  by  other  businesses.  He  was  able  to  convince  my  grandfather  to  release  an  ad  for  boots  that  said  there  were  only  a  few  boots  available.  Because  of  this,  the  boot  sales  increased  dramatically,  from  just  500  pairs  in  a  year  to  over  50 ,000.  If  I  have  our  own  company,  I  will  definitely  use  scarcity  marketing  to  advertise  my  products.
 
+--- Detailed Transcript (word, start, end, confidence) ---
+ Scarcity, 1.88, 2.44, 0.496
+ marketing, 2.44, 2.84, 0.689
+ is, 2.84, 3.28, 0.956
+ the, 3.28, 3.42, 0.991
+ idea, 3.42, 3.74, 0.991
+ that, 3.74, 3.98, 0.985
+ some, 3.98, 4.22, 0.988
+ consumers, 4.22, 4.74, 0.994
+ buy, 4.74, 5.02, 0.992
+ things, 5.02, 5.46, 0.995
+ just, 5.46, 5.90, 0.769
+ because, 5.90, 6.20, 0.995
+ they, 6.20, 6.38, 0.996
+ want, 6.38, 6.52, 0.996
+ to, 6.52, 6.68, 0.996
+ be, 6.68, 6.78, 0.998
+ one, 6.78, 6.94, 0.983
+ of, 6.94, 7.04, 0.997
+ the, 7.04, 7.14, 0.997
+ only, 7.14, 7.38, 0.994
+ people, 7.38, 7.66, 0.998
+ to, 7.66, 7.86, 0.996
+ own, 7.86, 8.10, 0.998
+ it., 8.10, 8.32, 0.996
+ And, 8.82, 9.12, 0.930
+ so, 9.12, 9.44, 0.887
+ in, 9.44, 9.60, 0.801
+ response,, 9.60, 9.98, 0.997
+ companies, 10.58, 10.88, 0.981
+ will, 10.88, 11.18, 0.997
+ advertise, 11.18, 11.64, 0.997
+ their, 11.64, 11.86, 0.998
+ products, 11.86, 12.22, 0.995
+ in, 12.22, 12.44, 0.998
+ a, 12.44, 12.54, 0.997
+ manner, 12.54, 12.84, 0.998
+ that, 12.84, 13.20, 0.993
+ makes, 13.20, 13.44, 0.928
+ them, 13.44, 13.62, 0.990
+ seem, 13.62, 13.96, 0.993
+ like, 13.96, 14.34, 0.992
+ they, 14.34, 14.54, 0.998
+ are, 14.54, 14.68, 0.983
+ rare., 14.68, 14.94, 0.990
+ The, 15.78, 15.98, 0.989
+ lecturer, 15.98, 16.36, 0.908
+ delves, 16.36, 16.86, 0.993
+ deeper, 16.86, 17.22, 0.988
+ into, 17.22, 17.44, 0.996
+ scarcity, 17.44, 17.80, 0.896
+ marketing, 17.80, 18.44, 0.991
+ by, 18.44, 18.84, 0.978
+ providing, 18.84, 19.22, 0.998
+ an, 19.22, 19.40, 0.998
+ example, 19.40, 19.80, 0.999
+ from, 19.80, 20.04, 0.989
+ his, 20.04, 20.18, 0.993
+ personal, 20.18, 20.56, 0.998
+ life., 20.56, 20.96, 0.999
+ He, 21.58, 21.92, 0.990
+ tells, 21.92, 22.14, 0.998
+ the, 22.14, 22.34, 0.998
+ story, 22.34, 22.64, 0.999
+ of, 22.64, 22.82, 0.998
+ his, 22.82, 22.94, 0.998
+ grandfather's, 22.94, 23.66, 0.971
+ shoe, 23.66, 23.80, 0.979
+ factory., 23.80, 24.16, 0.997
+ When, 24.82, 25.08, 0.992
+ his, 25.08, 25.22, 0.999
+ father, 25.22, 25.48, 0.999
+ joined, 25.48, 25.80, 0.996
+ the, 25.80, 25.94, 0.998
+ family, 25.94, 26.20, 0.998
+ business,, 26.20, 26.60, 0.999
+ he, 26.92, 27.20, 0.992
+ wanted, 27.20, 27.42, 0.998
+ to, 27.42, 27.60, 0.999
+ try, 27.60, 27.82, 0.999
+ the, 27.82, 27.96, 0.994
+ scarcity, 27.96, 28.28, 0.984
+ marketing, 28.28, 28.82, 0.995
+ techniques, 28.82, 29.36, 0.997
+ he, 29.36, 29.62, 0.924
+ noticed, 29.62, 29.86, 0.996
+ were, 29.86, 30.06, 0.973
+ being, 30.06, 30.30, 0.998
+ used, 30.30, 30.60, 0.998
+ by, 30.60, 30.78, 0.998
+ other, 30.78, 30.98, 0.997
+ businesses., 30.98, 31.42, 0.992
+ He, 32.22, 32.34, 0.981
+ was, 32.34, 32.50, 0.999
+ able, 32.50, 32.72, 0.999
+ to, 32.72, 32.90, 0.999
+ convince, 32.90, 33.20, 1.000
+ my, 33.20, 33.46, 0.998
+ grandfather, 33.46, 33.88, 0.992
+ to, 33.88, 34.20, 0.999
+ release, 34.20, 34.50, 0.995
+ an, 34.50, 34.72, 0.930
+ ad, 34.72, 34.86, 0.975
+ for, 34.86, 35.10, 0.997
+ boots, 35.10, 35.40, 0.675
+ that, 35.40, 35.80, 0.953
+ said, 35.80, 36.02, 0.999
+ there, 36.02, 36.22, 0.949
+ were, 36.22, 36.36, 0.970
+ only, 36.36, 36.68, 0.997
+ a, 36.68, 36.84, 0.998
+ few, 36.84, 37.08, 0.999
+ boots, 37.08, 37.40, 0.968
+ available., 37.40, 37.80, 0.999
+ Because, 38.56, 38.64, 0.987
+ of, 38.64, 38.86, 1.000
+ this,, 38.86, 39.06, 0.998
+ the, 39.58, 39.62, 0.997
+ boot, 39.62, 39.84, 0.951
+ sales, 39.84, 40.14, 0.998
+ increased, 40.14, 40.54, 0.973
+ dramatically,, 40.54, 41.28, 0.999
+ from, 41.90, 42.06, 0.997
+ just, 42.06, 42.28, 0.997
+ 500, 42.28, 42.70, 0.942
+ pairs, 42.70, 43.10, 0.994
+ in, 43.10, 43.32, 0.996
+ a, 43.32, 43.42, 0.998
+ year, 43.42, 43.68, 1.000
+ to, 43.68, 44.20, 0.765
+ over, 44.20, 44.56, 0.997
+ 50, 44.56, 45.02, 0.924
+,000., 45.02, 45.54, 0.948
+ If, 46.18, 46.36, 0.991
+ I, 46.36, 46.54, 0.984
+ have, 46.54, 46.66, 0.958
+ our, 46.66, 46.76, 0.906
+ own, 46.76, 46.96, 0.999
+ company,, 46.96, 47.28, 0.403
+ I, 47.78, 47.94, 0.998
+ will, 47.94, 48.10, 0.996
+ definitely, 48.10, 48.48, 0.990
+ use, 48.48, 48.88, 0.999
+ scarcity, 48.88, 49.24, 0.780
+ marketing, 49.24, 49.82, 0.995
+ to, 49.82, 50.14, 0.994
+ advertise, 50.14, 50.50, 0.998
+ my, 50.50, 50.80, 0.998
+ products., 50.80, 51.20, 0.996
+
 --- Pronunciation Features (Chen et al.) ---
-L1: 148.0 - Summation of likelihoods of all the individual words
-L2: 1.0 - Average likelihood across all words
-L3: 0.17514792899408285 - Average likelihood across all letters
-L4: 3.528850739151168 - Average likelihood per second
-L5: 4.451852568150457 - Average likelihood density across all words
-L6: 0.21716004548622572 - L4 normalized by the rate of speech
-L7: 0.2739601580400281 - L5 normalized by the rate of speech
+L1: 143.5028166025877 - Summation of likelihoods of all the individual words
+L2: 0.9696136256931601 - Average likelihood across all words
+L3: 0.16982581846460082 - Average likelihood across all letters
+L4: 3.421621759718352 - Average likelihood per second
+L5: 4.347680422243801 - Average likelihood density across all words
+L6: 0.21056133905959087 - L4 normalized by the rate of speech
+L7: 0.2675495644457724 - L5 normalized by the rate of speech
 R: 16.25 - Rate of speech: letters / total duration
 S_v: 0 - Average vowel duration deviations
 Sn_v: 0 - Average normalized vowel duration deviations
@@ -17,10 +167,14 @@ Sn_v: 0 - Average normalized vowel duration deviations
 T_s, T, n, m
 52.0, 41.940000000000005, 148, 845
 
---- Rhythm Metrics (Acoustic + Syntactic Pauses) ---
+--- Rhythm Metrics (Word-to-Word Gaps) ---
 Metric, Description, Value
-percentX, 20.000000000000004
-stddevX, 2.7755575615628914e-17
-varcoX, 3.851859888774471e-31
-rpviX, 0.0
-npviX, 0.0
+percentX, 61.49999999999994
+stddevX, 0.1388344337691485
+varcoX, 3.1341463414634303
+rpviX, 0.1781818181818189
+npviX, 0.30082931826686604
+avgWconf, 0.9696136256931601
+stdWconf, 0.08090535054959008
+minWconf, 0.40277403593063354
+maxWconf, 0.9996626377105713

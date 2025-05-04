@@ -1,14 +1,166 @@
 Transcript with silence markers:
 In  the  listening,  the  lecturer  discusses  a  practice  among  cuckoo  birds  called  egg  mimicry.  Cuckoos  lay  eggs  that  look  the  same  as  other  birds'  eggs  in  size  and  color.  The  mother  cuckoo  lays  her  eggs  in  another  bird's  nest,  so  that  bird  can't  tell  the  difference  between  her  own  eggs  and  the  cuckoos.  According  to  the  lecturer,  this  practice  has  two  advantages.  First,  when  the  baby  cuckoo  birds  are  born,  the  host  bird  raises  it  like  its  own.  The  baby  cuckoo  is  provided  with  a  home  in  the  nest  and  food  from  their  adopted  mom.  But  also,  there  is  an  advantage  to  the  other  baby  birds  too,  and  that  is  protection.  Should  a  predator  try  to  come  for  the  nest  while  the  mother  bird  is  away,  the  cuckoo  will  release  a  smell  that  wards  off  the  predator.  After  hearing  this  talk,  I  now  have  a  better  understanding  of  egg  mimicry.
 
+--- Detailed Transcript (word, start, end, confidence) ---
+ In, 1.82, 2.42, 0.505
+ the, 2.42, 2.56, 0.970
+ listening,, 2.56, 2.88, 0.905
+ the, 3.38, 3.46, 0.985
+ lecturer, 3.46, 3.84, 0.946
+ discusses, 3.84, 4.52, 0.983
+ a, 4.52, 4.62, 0.987
+ practice, 4.62, 4.96, 0.989
+ among, 4.96, 5.32, 0.973
+ cuckoo, 5.32, 5.80, 0.937
+ birds, 5.80, 6.18, 0.986
+ called, 6.18, 6.54, 0.825
+ egg, 6.54, 6.92, 0.631
+ mimicry., 6.92, 7.56, 0.981
+ Cuckoos, 8.14, 8.74, 0.874
+ lay, 8.74, 8.94, 0.992
+ eggs, 8.94, 9.28, 0.997
+ that, 9.28, 9.46, 0.995
+ look, 9.46, 9.60, 0.983
+ the, 9.60, 9.76, 0.996
+ same, 9.76, 10.08, 0.999
+ as, 10.08, 10.22, 0.993
+ other, 10.22, 10.46, 0.992
+ birds', 10.46, 10.70, 0.702
+ eggs, 10.88, 11.10, 0.997
+ in, 11.10, 11.48, 0.651
+ size, 11.48, 11.74, 0.992
+ and, 11.74, 11.94, 0.997
+ color., 11.94, 12.22, 0.944
+ The, 12.98, 13.14, 0.992
+ mother, 13.14, 13.34, 0.990
+ cuckoo, 13.34, 13.92, 0.983
+ lays, 13.92, 14.34, 0.992
+ her, 14.34, 14.58, 0.997
+ eggs, 14.58, 14.88, 0.996
+ in, 14.88, 15.06, 0.996
+ another, 15.06, 15.32, 0.996
+ bird's, 15.32, 15.74, 0.932
+ nest,, 15.74, 16.10, 0.996
+ so, 16.40, 16.72, 0.993
+ that, 16.72, 16.90, 0.996
+ bird, 16.90, 17.16, 0.998
+ can't, 17.16, 17.72, 0.990
+ tell, 17.72, 17.84, 0.999
+ the, 17.84, 17.96, 0.997
+ difference, 17.96, 18.24, 0.996
+ between, 18.24, 18.58, 0.999
+ her, 18.58, 18.82, 0.993
+ own, 18.82, 19.04, 0.992
+ eggs, 19.04, 19.36, 0.991
+ and, 19.36, 19.64, 0.997
+ the, 19.64, 19.76, 0.984
+ cuckoos., 19.76, 20.34, 0.958
+ According, 20.86, 21.44, 0.993
+ to, 21.44, 21.64, 0.996
+ the, 21.64, 21.78, 0.998
+ lecturer,, 21.78, 22.18, 0.984
+ this, 22.68, 22.90, 0.994
+ practice, 22.90, 23.28, 0.995
+ has, 23.28, 23.54, 0.999
+ two, 23.54, 23.84, 0.968
+ advantages., 23.84, 24.36, 0.999
+ First,, 24.36, 25.40, 0.565
+ when, 25.80, 25.98, 0.986
+ the, 25.98, 26.12, 0.984
+ baby, 26.12, 26.34, 0.904
+ cuckoo, 26.34, 26.80, 0.896
+ birds, 26.80, 27.10, 0.984
+ are, 27.10, 27.20, 0.995
+ born,, 27.20, 27.54, 0.997
+ the, 28.10, 28.16, 0.987
+ host, 28.16, 28.42, 0.948
+ bird, 28.42, 28.80, 0.972
+ raises, 28.80, 29.32, 0.983
+ it, 29.32, 29.54, 0.994
+ like, 29.54, 29.72, 0.983
+ its, 29.72, 29.92, 0.911
+ own., 29.92, 30.22, 0.998
+ The, 30.68, 30.76, 0.987
+ baby, 30.76, 31.00, 0.984
+ cuckoo, 31.00, 31.54, 0.991
+ is, 31.54, 31.84, 0.996
+ provided, 31.84, 32.22, 0.996
+ with, 32.22, 32.44, 0.998
+ a, 32.44, 32.58, 0.959
+ home, 32.58, 32.90, 0.991
+ in, 32.90, 33.06, 0.712
+ the, 33.06, 33.16, 0.993
+ nest, 33.16, 33.50, 0.997
+ and, 33.50, 33.88, 0.906
+ food, 33.88, 34.22, 0.995
+ from, 34.22, 34.52, 0.996
+ their, 34.52, 34.70, 0.997
+ adopted, 34.70, 35.14, 0.985
+ mom., 35.14, 35.50, 0.969
+ But, 36.06, 36.30, 0.985
+ also,, 36.30, 36.70, 0.956
+ there, 37.10, 37.30, 0.996
+ is, 37.30, 37.44, 0.808
+ an, 37.44, 37.56, 0.995
+ advantage, 37.56, 37.96, 0.999
+ to, 37.96, 38.24, 0.946
+ the, 38.24, 38.34, 0.976
+ other, 38.34, 38.58, 0.996
+ baby, 38.58, 38.84, 0.990
+ birds, 38.84, 39.30, 0.973
+ too,, 39.30, 39.54, 0.695
+ and, 39.92, 40.12, 0.996
+ that, 40.12, 40.36, 0.995
+ is, 40.36, 40.66, 0.960
+ protection., 40.66, 41.16, 0.984
+ Should, 41.98, 42.20, 0.983
+ a, 42.20, 42.36, 0.995
+ predator, 42.36, 42.70, 0.993
+ try, 42.70, 43.06, 0.980
+ to, 43.06, 43.16, 0.996
+ come, 43.16, 43.40, 0.972
+ for, 43.40, 43.58, 0.935
+ the, 43.58, 43.70, 0.996
+ nest, 43.70, 44.02, 0.998
+ while, 44.02, 44.20, 0.990
+ the, 44.20, 44.34, 0.986
+ mother, 44.34, 44.54, 0.995
+ bird, 44.54, 44.84, 0.958
+ is, 44.84, 44.98, 0.999
+ away,, 44.98, 45.38, 0.998
+ the, 45.98, 46.10, 0.992
+ cuckoo, 46.10, 46.54, 0.996
+ will, 46.54, 46.72, 0.999
+ release, 46.72, 47.08, 0.997
+ a, 47.08, 47.28, 0.964
+ smell, 47.28, 47.60, 0.997
+ that, 47.60, 47.84, 0.997
+ wards, 47.84, 48.16, 0.967
+ off, 48.16, 48.40, 0.991
+ the, 48.40, 48.58, 0.994
+ predator., 48.58, 48.96, 0.994
+ After, 48.96, 49.80, 0.825
+ hearing, 49.80, 50.14, 0.987
+ this, 50.14, 50.38, 0.989
+ talk,, 50.38, 50.70, 0.996
+ I, 51.22, 51.36, 0.992
+ now, 51.36, 51.60, 0.984
+ have, 51.60, 51.88, 0.994
+ a, 51.88, 51.94, 0.995
+ better, 51.94, 52.18, 0.999
+ understanding, 52.18, 52.88, 0.995
+ of, 52.88, 53.32, 0.995
+ egg, 53.32, 53.58, 0.779
+ mimicry., 53.58, 54.20, 0.990
+
 --- Pronunciation Features (Chen et al.) ---
-L1: 150.0 - Summation of likelihoods of all the individual words
-L2: 1.0 - Average likelihood across all words
-L3: 0.1822600243013366 - Average likelihood across all letters
-L4: 3.3829499323410013 - Average likelihood per second
-L5: 4.448767387949587 - Average likelihood density across all words
-L6: 0.23479234524339973 - L4 normalized by the rate of speech
-L7: 0.3087649978124914 - L5 normalized by the rate of speech
+L1: 144.36142474909622 - Summation of likelihoods of all the individual words
+L2: 0.9624094983273082 - Average likelihood across all words
+L3: 0.17540877855297232 - Average likelihood across all letters
+L4: 3.2557831472507037 - Average likelihood per second
+L5: 4.318602796436083 - Average likelihood density across all words
+L6: 0.22596638319679244 - L4 normalized by the rate of speech
+L7: 0.29973097415848 - L5 normalized by the rate of speech
 R: 14.40826330532213 - Rate of speech: letters / total duration
 S_v: 0 - Average vowel duration deviations
 Sn_v: 0 - Average normalized vowel duration deviations
@@ -17,10 +169,14 @@ Sn_v: 0 - Average normalized vowel duration deviations
 T_s, T, n, m
 57.12, 44.34, 150, 823
 
---- Rhythm Metrics (Acoustic + Syntactic Pauses) ---
+--- Rhythm Metrics (Word-to-Word Gaps) ---
 Metric, Description, Value
-percentX, 20.000000000000004
-stddevX, 2.7755575615628914e-17
-varcoX, 3.851859888774471e-31
-rpviX, 0.0
-npviX, 0.0
+percentX, 50.24999999999999
+stddevX, 0.15262290129597172
+varcoX, 4.635572139303468
+rpviX, 0.20933333333333373
+npviX, 0.42646168631687714
+avgWconf, 0.9624094983273082
+stdWconf, 0.08184191553472749
+minWconf, 0.5047098398208618
+maxWconf, 0.9990149736404419
