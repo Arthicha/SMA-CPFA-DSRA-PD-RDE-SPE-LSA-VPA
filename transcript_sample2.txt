@@ -1,0 +1,26 @@
+Transcript with silence markers:
+Scarcity  marketing  is  the  idea  that  some  consumers  buy  things  just  because  they  want  to  be  one  of  the  only  people  to  own  it.  And  so  in  response,  companies  will  advertise  their  products  in  a  manner  that  makes  them  seem  like  they  are  rare.  The  lecturer  delves  deeper  into  scarcity  marketing  by  providing  an  example  from  his  personal  life.  He  tells  the  story  of  his  grandfather's  shoe  factory.  When  his  father  joined  the  family  business,  he  wanted  to  try  the  scarcity  marketing  techniques  he  noticed  were  being  used  by  other  businesses.  He  was  able  to  convince  my  grandfather  to  release  an  ad  for  boots  that  said  there  were  only  a  few  boots  available.  Because  of  this,  the  boot  sales  increased  dramatically,  from  just  500  pairs  in  a  year  to  over  50 ,000.  If  I  have  our  own  company,  I  will  definitely  use  scarcity  marketing  to  advertise  my  products.
+
+--- Pronunciation Features (Chen et al.) ---
+L1: 148.0 - Summation of likelihoods of all the individual words
+L2: 1.0 - Average likelihood across all words
+L3: 0.17514792899408285 - Average likelihood across all letters
+L4: 3.528850739151168 - Average likelihood per second
+L5: 4.451852568150457 - Average likelihood density across all words
+L6: 0.21716004548622572 - L4 normalized by the rate of speech
+L7: 0.2739601580400281 - L5 normalized by the rate of speech
+R: 16.25 - Rate of speech: letters / total duration
+S_v: 0 - Average vowel duration deviations
+Sn_v: 0 - Average normalized vowel duration deviations
+
+--- Speech Metrics (T_s, T, n, m) ---
+T_s, T, n, m
+52.0, 41.940000000000005, 148, 845
+
+--- Rhythm Metrics (Acoustic + Syntactic Pauses) ---
+Metric, Description, Value
+percentX, 20.000000000000004
+stddevX, 2.7755575615628914e-17
+varcoX, 3.851859888774471e-31
+rpviX, 0.0
+npviX, 0.0

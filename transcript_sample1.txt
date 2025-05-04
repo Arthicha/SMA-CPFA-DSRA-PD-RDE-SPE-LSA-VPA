@@ -1,0 +1,26 @@
+Transcript with silence markers:
+In  the  listening,  the  lecturer  discusses  a  practice  among  cuckoo  birds  called  egg  mimicry.  Cuckoos  lay  eggs  that  look  the  same  as  other  birds'  eggs  in  size  and  color.  The  mother  cuckoo  lays  her  eggs  in  another  bird's  nest,  so  that  bird  can't  tell  the  difference  between  her  own  eggs  and  the  cuckoos.  According  to  the  lecturer,  this  practice  has  two  advantages.  First,  when  the  baby  cuckoo  birds  are  born,  the  host  bird  raises  it  like  its  own.  The  baby  cuckoo  is  provided  with  a  home  in  the  nest  and  food  from  their  adopted  mom.  But  also,  there  is  an  advantage  to  the  other  baby  birds  too,  and  that  is  protection.  Should  a  predator  try  to  come  for  the  nest  while  the  mother  bird  is  away,  the  cuckoo  will  release  a  smell  that  wards  off  the  predator.  After  hearing  this  talk,  I  now  have  a  better  understanding  of  egg  mimicry.
+
+--- Pronunciation Features (Chen et al.) ---
+L1: 150.0 - Summation of likelihoods of all the individual words
+L2: 1.0 - Average likelihood across all words
+L3: 0.1822600243013366 - Average likelihood across all letters
+L4: 3.3829499323410013 - Average likelihood per second
+L5: 4.448767387949587 - Average likelihood density across all words
+L6: 0.23479234524339973 - L4 normalized by the rate of speech
+L7: 0.3087649978124914 - L5 normalized by the rate of speech
+R: 14.40826330532213 - Rate of speech: letters / total duration
+S_v: 0 - Average vowel duration deviations
+Sn_v: 0 - Average normalized vowel duration deviations
+
+--- Speech Metrics (T_s, T, n, m) ---
+T_s, T, n, m
+57.12, 44.34, 150, 823
+
+--- Rhythm Metrics (Acoustic + Syntactic Pauses) ---
+Metric, Description, Value
+percentX, 20.000000000000004
+stddevX, 2.7755575615628914e-17
+varcoX, 3.851859888774471e-31
+rpviX, 0.0
+npviX, 0.0
